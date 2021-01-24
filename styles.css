@@ -1,0 +1,44 @@
+body{
+  font-family: lieberuth, sans-serif;
+}
+
+#Navigation{
+  margin-top: 2%;
+}
+
+
+.navbar-bgcolor{
+  background-color: #083d77;
+
+}
+
+.textcolor{
+  color: #F5FAFE !important;
+}
+.Group:hover{
+  color: #f26a4b;
+}
+
+.Title{
+  font-size: 4rem;
+
+}
+.card{
+  width: 546px;
+}
+#Gamelist{
+  background-color: #ebebd3;
+}
+
+.Gameimage{
+  width: ;
+}
+
+.plan{
+  margin: % %;
+}
+
+.row{
+  padding-left: 5%;
+  padding-right: 5%;
+}
